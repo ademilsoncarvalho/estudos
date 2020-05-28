@@ -3,3 +3,4 @@
 - Declaring dictionary, tuples and lists
 - Repetition Structure
 - Functions(BIF)
+- Regex
