@@ -1,2 +1,3 @@
-# estudos
-Repositório de estudos sobre linguagens e ferramentas 
+# Estudos
+Repositório de estudos sobre linguagens e ferramentas  
+ - [Python](/python)
