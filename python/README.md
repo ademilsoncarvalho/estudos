@@ -1,5 +1,5 @@
 # Estudos Sobre python
 
 #### Lista diretórios
-- [Cursosbasicos](/cursosbasicos)
-       - Inclui sintaxe e estruturas basicas da linguagem
+- [Basic Course](/python/basic_course_python)
+       - Includes basic language structures and syntax
