@@ -16,3 +16,6 @@ print(string2[0:5])
 print(string + string2)
 ## concat string with number
 print(string  + ' int numer %s' % (int))
+## print string using format, replace parameters following the order
+string = "minha idade é {}"
+print(string.format(12))
