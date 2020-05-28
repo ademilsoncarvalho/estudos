@@ -1,5 +1,5 @@
-# Estudos Sobre python
+# Studies about Python
 
-#### Lista diretórios
+#### Folder List
 - [Basic Course](/python/basic_course_python)
        - Includes basic language structures and syntax
