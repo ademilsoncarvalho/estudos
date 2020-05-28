@@ -2,7 +2,7 @@
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
-python/basic_course_python/exercises/accounts/__pycache__/
+!**/__pycache__/
 *.py[cod]
 *$py.class
 
