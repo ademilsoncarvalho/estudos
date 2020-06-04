@@ -1,4 +1,4 @@
-from python.basic_course_python.exercises.accounts.accounts import list_counts
+from python.basic_course_python.exercises.bank_acount.accounts import list_counts
 
 
 def auth_cont():

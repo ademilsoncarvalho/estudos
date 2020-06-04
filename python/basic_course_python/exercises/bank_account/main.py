@@ -1,6 +1,6 @@
 ## create bank account
-from python.basic_course_python.exercises import utils
-from python.basic_course_python.exercises.accounts import auth
+from python.basic_course_python.exercises.bank_acount import utils
+from python.basic_course_python.exercises.bank_acount.accounts import auth
 
 
 def print_balance(saldo):
