@@ -57,3 +57,34 @@ print(abs(-10))
 # content variable for "__main__" file run directly
 if __name__ == "__main__":
     print("file run directly not imported !!")
+
+# boll testing
+bool(0)
+bool("")
+bool(None)
+bool(1)
+bool(-100)
+bool(13.5)
+bool("test")
+bool(True)
+
+# using find in string, return position OR -1 for not found
+string = "test"
+print(string.find("t"))
+# using for witch string
+for letter in string:
+    print(letter)
+
+# lower and upper
+print(string.lower())
+print(string.upper())
+
+# remove spaces from string
+string = "   test"
+print(string.split())
+
+# __file__ get complete path file
+import os
+print(__file__)
+# dir of actual file
+print(os.path.dirname(__file__))
