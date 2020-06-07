@@ -78,6 +78,8 @@ for letter in string:
 # lower and upper
 print(string.lower())
 print(string.upper())
+# first letter upper
+print(string.title())
 
 # remove spaces from string
 string = "   test"
