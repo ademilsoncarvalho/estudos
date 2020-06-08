@@ -87,6 +87,19 @@ print(string.split())
 
 # __file__ get complete path file
 import os
+
 print(__file__)
 # dir of actual file
 print(os.path.dirname(__file__))
+
+
+# has_attr verify exists attribute in variable
+class Person:
+    age = 23
+    name = 'Adam'
+
+
+person = Person()
+print('Person has age?:', hasattr(person, 'age'))
+# if ternary
+print('True' if bool(1) else 'False')

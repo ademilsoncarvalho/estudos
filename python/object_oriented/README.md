@@ -4,3 +4,4 @@
 - Create @classmethod and @staticmethod
 - Create public and private attributes in class
 - Create getters and setters using decorator @property in class
+- Using inheritance
