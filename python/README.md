@@ -12,5 +12,6 @@
  - [Python 3](https://cursos.alura.com.br/certificate/ademilsoncarvalho/python-3-introducao-a-nova-versao-da-linguagem)
  - [Python 3 PART 2: Advancing language](https://cursos.alura.com.br/certificate/ademilsoncarvalho/python-3-avancando-na-linguagem)
  - [Python - Best practices and file management](https://www.schoolofnet.com/validar-certificado/?certificate=0f4ab8a4-bcf7-4177-af41-e6e80c88179c)
- - [Python 3: Introduction to Object Orientation](https://cursos.alura.com.br/certificate/ademilsoncarvalho/python-3-intro-orientacao-objetos)
+ - [Python 3 - Introduction to Object Orientation](https://cursos.alura.com.br/certificate/ademilsoncarvalho/python-3-intro-orientacao-objetos)
+ - [Python 3 - Advancing in object orientation](https://cursos.alura.com.br/certificate/ademilsoncarvalho/python-3-avancando-orientacao-objetos)
  - [Python OO](https://www.schoolofnet.com/validar-certificado/?certificate=4de17988-6534-49ad-b828-67453fbd2601)

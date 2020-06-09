@@ -32,6 +32,19 @@ class Motorcycle(Vehicle):
         super().__init__(model)
 
 
+class CarRace:
+
+    def __init__(self, name, cars):
+        self.__cars = cars
+        self.__name = name
+
+    def __getitem__(self, item):
+        return self.__cars[item]
+
+    def __len__(self):
+        return len(self.__cars)
+
+
 if __name__ == '__main__':
     car = Car('Ferrari', 'V4')
     print(car.model)
@@ -41,3 +54,9 @@ if __name__ == '__main__':
     motorcycle = Motorcycle('Harley')
     print(motorcycle.model)
     print(motorcycle)
+
+    list_cars = [car]
+    car_race = CarRace('Car race', list_cars)
+    print(f'car race has {len(car_race)} cars ')
+    for car in car_race:
+        print(car)
